@@ -1,3 +1,7 @@
+This is a side project to learn QA Automation with Cucumber and React. 
+Setup is based on [This Article](https://medium.com/@Charles_Stover/behavior-driven-react-development-with-cucumber-faf596d9d71b)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
